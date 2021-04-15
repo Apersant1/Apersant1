@@ -1,4 +1,9 @@
-#Egor Barashihin (@Apersant1)
+<h1 align="left">Egor Barashihin (@Apersant1) 🔥</h1>
+
+
+- 💻 Core Stack: **Python, JS/ES6**. Mainly focused on Frontend.
+hhref="https://zhashkevych.com/"  target="blank">Website</a>
+- 👨‍💻  Instagram : **@sunride**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apersant1&show_icons=true&theme=dark)
 
