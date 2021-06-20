@@ -1,6 +1,5 @@
 <h1 align="left">Egor Barashihin (@Apersant1) 🔥</h1>
 
----
 
 ### 💻 Tech Stack:
 
