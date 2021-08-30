@@ -1,8 +1,11 @@
 <h1 align="left">Egor Barashihin (@Apersant1) 🔥</h1>
 
 
-### 💻 Tech Stack:
+- 💻 Core Stack: **HTML5, CSS3, JS/React**. Mainly focused on Frontend && CCNA.
+- 🔥 Learning Product Management, Marketing & UI/UX Design
+- 👨‍💻 Instagram : <a href="https://www.instagram.com/captain_jasey/">**@captain_jasey**</a>
 
+### 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
@@ -12,18 +15,18 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 
 ### 🛠 Tools:
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
 ---
-- 👨‍💻  Instagram : <a href="https://www.instagram.com/sunride13/">**@sunride13**</a>
-- ⚙️      Vk testers profile : <a href="https://vk.com/bugs?act=reporter&id=380076897">Click<a/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apersant1&show_icons=true&theme=dark)
+
 
 ![vk testers](https://browser.ru/v3/ok/img/check/icon-testers.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apersant1&show_icons=true&theme=dark)
 
 
