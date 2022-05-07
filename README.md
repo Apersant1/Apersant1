@@ -2,7 +2,7 @@
 
 
 - 💻 Core Stack: **HTML5, CSS3, JS/React**. Mainly focused on Frontend && CCNA.
-- 🔥 Learning Product Management, Marketing & UI/UX Design
+- 🔥 Learning CyberSecurity Penetration student
 - 👨‍💻 Instagram : <a href="https://www.instagram.com/captain_jasey/">**@captain_jasey**</a>
 
 ### 💻 Tech Stack:
