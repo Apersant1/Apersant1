@@ -28,5 +28,8 @@
 
 ![vk testers](https://browser.ru/v3/ok/img/check/icon-testers.svg)
 
+## Events
+- <a href="https://ez.ctf.cafe/">**EzCTF**</a>
+
 
 
