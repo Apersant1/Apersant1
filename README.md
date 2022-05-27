@@ -29,7 +29,8 @@
 ![vk testers](https://browser.ru/v3/ok/img/check/icon-testers.svg)
 
 ## Events
-- <a href="https://github.com/CTF-Cafe/CTF_Cafe">**EzCTF**</a>
+- <a href="https://github.com/CTF-Cafe/CTF_Cafe">``EzCTF``</a>
+- <a href="https://opus.sk.ru/2022-skl-mordovia">``Sklab.Mordovia``</a>
 
 
 
