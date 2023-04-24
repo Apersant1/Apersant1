@@ -31,6 +31,7 @@
 ## Events
 - <a href="https://github.com/CTF-Cafe/CTF_Cafe">``EzCTF``</a>
 - <a href="https://opus.sk.ru/2022-skl-mordovia">``Sklab.Mordovia``</a>
+- <a href="https://event.codeby.games/">``Codeby CTF [team Script Kiddies 39/300 place]``</a>
 
 
 
