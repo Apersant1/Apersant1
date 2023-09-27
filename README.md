@@ -1,7 +1,7 @@
 <h1 align="left">Egor Barashihin (@Apersant1) 🔥</h1>
 
 
-- 💻 Core Stack: **HTML5, CSS3, JS/React**. Mainly focused on Frontend && CCNA.
+- 💻 Core Stack: **HTML5, CSS3, JS/React**. Mainly focused on Web && CCNA.
 - 🔥 Learning: MRSU
 - 👨‍💻 Instagram : <a href="https://www.instagram.com/captain_jasey/">**@captain_jasey**</a>
 
