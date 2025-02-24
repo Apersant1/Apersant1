@@ -22,6 +22,9 @@
 
 ![Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apersant1&theme=dark)
 
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Apersant1&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dark)](https://github.com/saneksa/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Apersant1&layout=compact&theme=dark)](https://github.com/saneksa/github-readme-stats)
+
 ![vk testers](https://browser.ru/v3/ok/img/check/icon-testers.svg)
 
 ## Events
