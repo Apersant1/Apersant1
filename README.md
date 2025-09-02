@@ -2,7 +2,7 @@
 
 
 - 💻 Core Stack: **HTML5, CSS3, JS/React**. Mainly focused on Web && CCNA.
-- 🔥 Learning: MRSU
+- 🔥 Education: MRSU
 - 👨‍💻 Instagram : <a href="https://www.instagram.com/captain_jasey/">**@captain_jasey**</a>
 
 ### 💻 Tech Stack:
